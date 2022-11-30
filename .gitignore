@@ -1,0 +1,10 @@
+env
+*pyc
+*pyo
+__pycache__
+utils
+*.sqlite3
+node_modules
+tmp
+*.mo
+.vscode

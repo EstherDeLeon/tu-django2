@@ -1,0 +1,6 @@
+[submodule "locallibrary/bibliotecas"]
+	path = locallibrary/bibliotecas
+	url = git@github.com:lmorillas/bibliotecas.git
+[submodule "locallibrary/mundial"]
+	path = locallibrary/mundial
+	url = https://github.com/EstherDeLeon/mundial-futbol-app.git
